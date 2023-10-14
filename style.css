@@ -1,0 +1,29 @@
+*{
+    background-color: #FEE3D8;
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+    margin: 25px;
+}
+h2 {
+    padding: 10px;
+}
+p{
+    padding-bottom: 20px;
+    line-height: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px 42px;
+  }
+  button{
+    margin-top: 10px;
+    background-color: #BFEE62;
+    border: 1px solid #BFEE62;
+    border-radius: 10px;
+    padding: 10px 20px;
+  }
